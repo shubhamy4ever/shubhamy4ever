@@ -6,8 +6,10 @@
 
 ## ✉️ Find me on:
 <p align="center">
- <a href="https://instagram.com/shubhamy217" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Instagram_simple_icon.svg/1200px-Instagram_simple_icon.svg.png" alt="instagram" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/shubham-yadav-2a75a4216/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linked-in" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:sspy2172002@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://instagram.com/shubhamy217" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Instagram_simple_icon.svg/1200px-Instagram_simple_icon.svg.png" alt="instagram" height="40" style="vertical-align:top; margin:4px"></a>
+ 
 </p>
 
 ## 🧰 Languages and Tools:
