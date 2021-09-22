@@ -9,7 +9,6 @@
  <a href="https://github.com/shubhamy4ever" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="instagram" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://stackoverflow.com/users/13034319/shubham-yadav" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="instagram" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://www.linkedin.com/in/shubham-yadav-2a75a4216/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linked-in" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:sspy2172002@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://instagram.com/shubhamy217" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" height="40" style="vertical-align:top; margin:4px"></a>
  
 </p>
