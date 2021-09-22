@@ -6,36 +6,44 @@
 
 ## ✉️ Find me on:
 <p align="center">
- <a href="https://www.linkedin.com/in/shubham-yadav-2a75a4216/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linked-in" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:sspy2172002@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://instagram.com/shubhamy217" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Instagram_simple_icon.svg/1200px-Instagram_simple_icon.svg.png" alt="instagram" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://github.com/shubhamy4ever" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="instagram" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://stackoverflow.com/users/13034319/shubham-yadav" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="instagram" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/shubham-yadav-2a75a4216/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linked-in" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:sspy2172002@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://instagram.com/shubhamy217" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" height="40" style="vertical-align:top; margin:4px"></a>
  
 </p>
 
 ## 🧰 Languages and Tools:
 <p align="center">
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="40" style="vertical-align:top; margin:4px">
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="40" style="vertical-align:top; margin:4px">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-   <img src="https://camo.githubusercontent.com/2eb688a747805c9acd144faf728c8a30f86fc4ca5fb39e6528232f0372151364/68747470733a2f2f63646e2e7261776769742e636f6d2f7075676a732f7075672d6c6f676f2f656563343336636565386664396431373236643738333963626539396431663639343639326330632f5356472f7075672d66696e616c2d6c6f676f2d5f2d636f6c6f75722d3132382e737667" alt="VS Code" height="40" style="vertical-align:top; margin:4px">    
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node Js" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express Js" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="Express Js" height="40" style="vertical-align:top; margin:4px">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" height="40" style="vertical-align:top; margin:4px">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="c++" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
-           <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"  style="vertical-align:top; margin:4px">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"  style="vertical-align:top; margin:4px">
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="VS Code" style="vertical-align:top; margin:4px">
+   <img src="https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black" alt="VS Code"  style="vertical-align:top; margin:4px">    
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"  style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="Javascript"  style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node Js" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="Terminal"  style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express Js" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Express Js"  style="vertical-align:top; margin:4px">
+      <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"  style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"  style="vertical-align:top; margin:4px">
+       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"  style="vertical-align:top; margin:4px">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"  style="vertical-align:top; margin:4px">
+<!--         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" alt="Github"  style="vertical-align:top; margin:4px">
+           <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" alt="Terminal"  style="vertical-align:top; margin:4px"> -->
+          <img src= "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+<!--            <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">  -->
+            <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+           
 </p>
 
 <!---
 shubhamy4ever/shubhamy4ever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## 🏆 My Github Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamy4ever&show_icons=true&theme=tokyonight)            
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamy4ever&theme=tokyonight) -->
+## 🏆 My Github Stats:                                                                                 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamy4ever)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamy4ever)<br>
+![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=shubhamy4ever)
 
