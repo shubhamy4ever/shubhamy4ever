@@ -2,7 +2,7 @@
 - 👀 I’m interested to make my projects opensource and explore more in web development by contributing in some projects
 - 🌱 I’m currently learning web development and i am a bachelor student in information technology
 - 💞️ I’m looking to collaborate on projects related to web development
-- learning REST API Authentication API planning to learn react js after improving in express js and mongo db
+- learning React Js and Want to improve express and mongo
 
 ## ✉️ Find me on:
 <p align="center">
