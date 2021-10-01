@@ -41,8 +41,30 @@
 shubhamy4ever/shubhamy4ever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## 🏆 My Github Stats:                                                                                 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamy4ever)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamy4ever)<br>
-![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=shubhamy4ever)
+<details open>
+  <summary>📈 <b>Github Statistics</b>:</summary>
+  
+  <br>
+        
+  <div> 
+     <a style="text-decoration: none;" href="#">
+      <img width="450px" src="https://github-readme-stats.vercel.app/api/shubhamy4ever=savio-2-lopes&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight"/>
+    </a>
+    <a style="text-decoration: none;" href="#">
+      <img width="332px" src="https://github-readme-stats.vercel.app/api/top-langs/shubhamy4ever=savio-2-lopes&layout=compact&theme=tokyonight">
+    </a>    
+    <a style="text-decoration: none;" href="#">
+     <img width="450px" src="https://github-readme-streak-stats.herokuapp.com/shubhamy4ever=savio-2-lopes&layout=compact&theme=tokyonight" />
+    </a>
+    <a style="text-decoration: none;" href="https://wakatime.com">
+     <img width="380px" src="https://github-readme-stats.vercel.app/api/shubhamy4ever=namelopes&theme=tokyonight" />
+    </a>
+  </div>
+ </div>
+</details>
+
+                                                                                                                 
+
+
+
 
