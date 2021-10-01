@@ -1,70 +1,31 @@
-## 👋 Hi, I’m Shubham Yadav ![](https://komarev.com/ghpvc/?username=shubhamy4ever&color=lightgrey):
-- 👀 I’m interested to make my projects opensource and explore more in web development by contributing in some projects
-- 🌱 I’m currently learning web development and i am a bachelor student in information technology
-- 💞️ I’m looking to collaborate on projects related to web development
-- learning React Js and Want to improve express and mongo
+<h1 align="center">Hi 👋, I'm Shubham Yadav</h1>
+<h3 align="center">A passionate fullstack web developer from India</h3>
 
-## ✉️ Find me on:
-<p align="center">
- <a href="https://github.com/shubhamy4ever" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="instagram" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://stackoverflow.com/users/13034319/shubham-yadav" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="instagram" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://www.linkedin.com/in/shubham-yadav-2a75a4216/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linked-in" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://instagram.com/shubhamy217" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" height="40" style="vertical-align:top; margin:4px"></a>
- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamy4ever&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamy4ever" /> </p>
+
+
+- 🌱 I’m currently learning **React Js And Dev Ops**
+
+- 👯 I’m looking to collaborate on **Node js Projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/shubhamy4ever](https://github.com/shubhamy4ever)
+
+- 💬 Ask me about **Node js Html Css Javascript**
+
+- 📫 How to reach me **sspy2172002@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shubhamy4ever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamy4ever" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13034319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13034319" height="30" width="40" /></a>
+<a href="https://instagram.com/instagram username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram username" height="30" width="40" /></a>
 </p>
 
-## 🧰 Languages and Tools:
-<p align="center">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"  style="vertical-align:top; margin:4px">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"  style="vertical-align:top; margin:4px">
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="VS Code" style="vertical-align:top; margin:4px">
-   <img src="https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black" alt="VS Code"  style="vertical-align:top; margin:4px">    
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"  style="vertical-align:top; margin:4px">
- <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="Javascript"  style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node Js" style="vertical-align:top; margin:4px">
- <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="Terminal"  style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express Js" style="vertical-align:top; margin:4px">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Express Js"  style="vertical-align:top; margin:4px">
-      <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"  style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"  style="vertical-align:top; margin:4px">
-       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"  style="vertical-align:top; margin:4px">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"  style="vertical-align:top; margin:4px">
-<!--         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" alt="Github"  style="vertical-align:top; margin:4px">
-           <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" alt="Terminal"  style="vertical-align:top; margin:4px"> -->
-          <img src= "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-<!--            <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">  -->
-            <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-           
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> </p>
 
-<!---
-shubhamy4ever/shubhamy4ever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<details open>
-  <summary>📈 <b>Github Statistics</b>:</summary>
-  
-  <br>
-        
-  <div> 
-     <a style="text-decoration: none;" href="#">
-      <img width="450px" src="https://github-readme-stats.vercel.app/api/shubhamy4ever=savio-2-lopes&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight"/>
-    </a>
-    <a style="text-decoration: none;" href="#">
-      <img width="332px" src="https://github-readme-stats.vercel.app/api/top-langs/shubhamy4ever=savio-2-lopes&layout=compact&theme=tokyonight">
-    </a>    
-    <a style="text-decoration: none;" href="#">
-     <img width="450px" src="https://github-readme-streak-stats.herokuapp.com/shubhamy4ever=savio-2-lopes&layout=compact&theme=tokyonight" />
-    </a>
-    <a style="text-decoration: none;" href="https://wakatime.com">
-     <img width="380px" src="https://github-readme-stats.vercel.app/api/shubhamy4ever=namelopes&theme=tokyonight" />
-    </a>
-  </div>
- </div>
-</details>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamy4ever&show_icons=true&locale=en&layout=compact" alt="shubhamy4ever" /></p>
 
-                                                                                                                 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamy4ever&show_icons=true&locale=en" alt="shubhamy4ever" /></p>
 
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamy4ever&" alt="shubhamy4ever" /></p>
