@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamy4ever&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamy4ever" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamy4ever" alt="shubhamy4ever" /></a> </p>
-
 - 🔭 I’m currently working on **Online Vaccination Website for my college project**
 
 - 🌱 I’m currently learning **React Js And Dev Ops**
