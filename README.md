@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Online Vaccination Website for my college project**
 
-- 🌱 I’m currently learning **React Js And Dev Ops**
+- 🌱 I’m currently working on **React Js**
 
-- 👯 I’m looking to collaborate on **Node js Projects**
+- 👯 I’m looking to collaborate on **React js and express js projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhamy4ever](https://github.com/shubhamy4ever)
 
-- 💬 Ask me about **Node js Html Css Javascript**
+- 💬 Ask me about **Node js Html Css Javascript reactjs**
 
 - 📫 How to reach me **yshubham2107@gmail.com**
 
