@@ -31,6 +31,10 @@
 <h3 align="left">Badges:</h3>
 <p><a href="https://www.credly.com/badges/a10db2f0-adf0-46a0-891e-1279a6d108f9/public_url"><img align="left" src="introduction-to-cloud-computing.png" alt="shubhamy4ever"  width="120" height="120"/></a></p>
 <p><a href="https://www.credly.com/badges/d3aab58c-b31e-4b06-a1d5-016f37e3e321/public_url"><img align="" src="web-development-with-html-css-javascript-essentials.png" alt="shubhamy4ever"  width="120" height="120"/></a></p>
+<p><a href="https://www.credly.com/badges/5721b5ec-038b-474f-9c32-3535cb9b1d39/public_url"><img align="" src="developing-cloud-native-applications.1.png" alt="shubhamy4ever"  width="120" height="120"/></a></p>
+<p><a href="https://www.credly.com/badges/7fb7f399-6488-41ed-acf8-8c41f6a6f8b9/public_url"><img align="" src="developing-cloud-apps-with-node-js-and-react.png" alt="shubhamy4ever"  width="120" height="120"/></a></p>
+
+
 
 <h3>Github Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamy4ever&show_icons=true&locale=en&layout=compact" alt="shubhamy4ever" /></p>
