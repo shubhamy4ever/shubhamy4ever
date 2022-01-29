@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhamy4ever](https://github.com/shubhamy4ever)
 
+- 📝 I regularly write articles on [https://linuxtipsandsolutions.blogspot.com/](https://linuxtipsandsolutions.blogspot.com/)
+
 - 💬 Ask me about **Node js Html Css Javascript reactjs**
 
 
@@ -43,3 +45,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamy4ever&show_icons=true&locale=en" alt="shubhamy4ever" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamy4ever&" alt="shubhamy4ever" /></p>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="/https://linuxtipsandsolutions.blogspot.com/feeds/posts/default?alt=rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://linuxtipsandsolutions.blogspot.com/feeds/posts/default?alt=rss" height="30" width="40" /></a>
+</p>
