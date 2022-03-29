@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **My final college project**
 
-- 🌱 I’m currently working on **Practicing MERN Stack and learning Docker**
+- 🌱 I’m currently working on **Next JS**
 
 - 👯 I’m looking to collaborate on **MERN Stack and html css js projects**
 
