@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamy4ever&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamy4ever" /> </p>
 
-- 🔭 I’m currently working on **My final college project**
-
 - 🌱 I’m currently learning **Next JS**
+
+- 🔭 My next goal is to learn **sass material ui and firebase and to strengthen my current skills**
 
 - 👯 I’m looking to collaborate on **MERN Stack and html css js projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhamy4ever](https://github.com/shubhamy4ever)
-
-- 📝 I regularly write articles on [https://linuxtipsandsolutions.blogspot.com/](https://linuxtipsandsolutions.blogspot.com/)
 
 - 💬 Ask me about **Node js Html Css Javascript reactjs**
 
