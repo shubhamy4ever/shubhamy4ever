@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Redux and Sass**
 
-- 🔭 My next goal is to learn **material ui and firebase and to strengthen my current skills**
+- 🔭 My next goal is to learn **material ui ,firebase and to strengthen my current skills**
 
 - 👯 I’m looking to collaborate on **MERN Stack and html css js projects**
 
