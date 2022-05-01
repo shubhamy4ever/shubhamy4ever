@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamy4ever&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamy4ever" /> </p>
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Redux and Sass**
 
-- 🔭 My next goal is to learn **sass material ui and firebase and to strengthen my current skills**
+- 🔭 My next goal is to learn **material ui and firebase and to strengthen my current skills**
 
 - 👯 I’m looking to collaborate on **MERN Stack and html css js projects**
 
