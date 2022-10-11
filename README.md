@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamy4ever&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamy4ever" /> </p>
 
-- 🌱 I’m currently learning **Redux and Sass**
+- 🌱 I’m currently learning **React with typescript**
 
-- 🔭 My next goal is to learn **material ui , firebase and to strengthen my current skills**
+- 🔭 My next goal is to learn *either gcp or aws or azure**
 
-- 👯 I’m looking to collaborate on **MERN Stack and html css js projects**
+- 👯 I’m looking to collaborate on **MERN Stack and mysql**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhamy4ever](https://github.com/shubhamy4ever)
 
