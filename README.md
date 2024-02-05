@@ -20,7 +20,7 @@
 <a href="https://codepen.io/shubhamy4ever" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shubhamy4ever" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubhamy4ever" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamy4ever" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13034319" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13034319" height="30" width="40" /></a>
-<a href="https://dev.to/shubhamy4ever" target="_blank" rel="noreferrer"><img align="center" src="https://camo.githubusercontent.com/80b13cf5dc17137e7d934d19919afeea64233f4b3e51823b62f3b4d61953c7f3/68747470733a2f2f74686570726163746963616c6465762e73332e616d617a6f6e6177732e636f6d2f692f64336f356c397969716676317a3234636e3179702e706e67" alt="13034319" height="30" width="40" /></a>
+<a href="https://leetcode.com/yshubham2107" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="13034319" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
